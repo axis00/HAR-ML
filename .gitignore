@@ -1,0 +1,4 @@
+tfb_logs/
+tfb_logs/*
+*_best_model.*.h5
+.ipynb_checkpoints/
